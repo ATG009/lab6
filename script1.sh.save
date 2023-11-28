@@ -1,0 +1,3 @@
+#!/bin/bash
+source_dir="/home/ATG/Documents"
+dest_dir="/home/ATG/backup"
